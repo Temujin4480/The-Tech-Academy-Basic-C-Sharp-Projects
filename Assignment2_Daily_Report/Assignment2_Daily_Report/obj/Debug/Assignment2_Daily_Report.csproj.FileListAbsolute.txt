@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\bin\Debug\Assignment2_Daily_Report.exe.config
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\bin\Debug\Assignment2_Daily_Report.exe
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\bin\Debug\Assignment2_Daily_Report.pdb
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\obj\Debug\Assignment2_Daily_Report.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\obj\Debug\Assignment2_Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\obj\Debug\Assignment2_Daily_Report.exe
+C:\Users\Ben\source\repos\Assignment2_Daily_Report\Assignment2_Daily_Report\obj\Debug\Assignment2_Daily_Report.pdb
