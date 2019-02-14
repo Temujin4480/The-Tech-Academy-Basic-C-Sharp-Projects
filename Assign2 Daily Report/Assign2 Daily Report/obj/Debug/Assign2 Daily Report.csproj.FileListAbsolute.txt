@@ -1,0 +1,7 @@
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\bin\Debug\Assign2 Daily Report.exe.config
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\bin\Debug\Assign2 Daily Report.exe
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\bin\Debug\Assign2 Daily Report.pdb
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\obj\Debug\Assign2 Daily Report.csprojAssemblyReference.cache
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\obj\Debug\Assign2 Daily Report.csproj.CoreCompileInputs.cache
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\obj\Debug\Assign2 Daily Report.exe
+D:\Ben\Tech Academy\Lesson 7 C# and .Net Framework Course\Visual Studio Programs\Assign2 Daily Report\Assign2 Daily Report\obj\Debug\Assign2 Daily Report.pdb
