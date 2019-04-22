@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.exe.config
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.exe
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\bin\Debug\BranchingShippingQuote.pdb
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.exe
+C:\Users\Ben\source\repos\BranchingShippingQuote\BranchingShippingQuote\obj\Debug\BranchingShippingQuote.pdb
