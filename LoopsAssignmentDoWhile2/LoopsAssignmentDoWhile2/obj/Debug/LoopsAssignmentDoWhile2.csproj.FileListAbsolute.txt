@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\bin\Debug\LoopsAssignmentDoWhile2.exe.config
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\bin\Debug\LoopsAssignmentDoWhile2.exe
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\bin\Debug\LoopsAssignmentDoWhile2.pdb
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\obj\Debug\LoopsAssignmentDoWhile2.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\obj\Debug\LoopsAssignmentDoWhile2.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\obj\Debug\LoopsAssignmentDoWhile2.exe
+C:\Users\Ben\source\repos\LoopsAssignmentDoWhile2\LoopsAssignmentDoWhile2\obj\Debug\LoopsAssignmentDoWhile2.pdb
