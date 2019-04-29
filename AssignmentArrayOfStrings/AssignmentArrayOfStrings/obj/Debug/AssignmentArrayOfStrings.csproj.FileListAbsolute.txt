@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\obj\Debug\AssignmentArrayOfStrings.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\obj\Debug\AssignmentArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\bin\Debug\AssignmentArrayOfStrings.exe.config
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\bin\Debug\AssignmentArrayOfStrings.exe
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\bin\Debug\AssignmentArrayOfStrings.pdb
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\obj\Debug\AssignmentArrayOfStrings.exe
+C:\Users\Ben\source\repos\AssignmentArrayOfStrings\AssignmentArrayOfStrings\obj\Debug\AssignmentArrayOfStrings.pdb
