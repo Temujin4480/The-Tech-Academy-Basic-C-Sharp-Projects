@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe.config
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.exe
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\bin\Debug\ArrayAndListAssignment.pdb
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.exe
+C:\Users\Ben\source\repos\ArrayAndListAssignment\ArrayAndListAssignment\obj\Debug\ArrayAndListAssignment.pdb
