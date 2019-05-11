@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\bin\Debug\TwoIntClassMethod.exe.config
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\bin\Debug\TwoIntClassMethod.exe
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\bin\Debug\TwoIntClassMethod.pdb
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\obj\Debug\TwoIntClassMethod.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\obj\Debug\TwoIntClassMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\obj\Debug\TwoIntClassMethod.exe
+C:\Users\Ben\source\repos\TwoIntClassMethod\TwoIntClassMethod\obj\Debug\TwoIntClassMethod.pdb
