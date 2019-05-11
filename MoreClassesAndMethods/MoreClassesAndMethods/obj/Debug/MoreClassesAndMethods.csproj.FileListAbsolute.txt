@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\obj\Debug\MoreClassesAndMethods.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\obj\Debug\MoreClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\bin\Debug\MoreClassesAndMethods.exe.config
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\bin\Debug\MoreClassesAndMethods.exe
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\bin\Debug\MoreClassesAndMethods.pdb
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\obj\Debug\MoreClassesAndMethods.exe
+C:\Users\Ben\source\repos\MoreClassesAndMethods\MoreClassesAndMethods\obj\Debug\MoreClassesAndMethods.pdb
