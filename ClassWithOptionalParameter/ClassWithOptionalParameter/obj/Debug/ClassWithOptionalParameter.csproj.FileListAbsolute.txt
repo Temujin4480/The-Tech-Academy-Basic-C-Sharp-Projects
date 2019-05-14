@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\bin\Debug\ClassWithOptionalParameter.exe.config
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\bin\Debug\ClassWithOptionalParameter.exe
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\bin\Debug\ClassWithOptionalParameter.pdb
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\obj\Debug\ClassWithOptionalParameter.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\obj\Debug\ClassWithOptionalParameter.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\obj\Debug\ClassWithOptionalParameter.exe
+C:\Users\Ben\source\repos\ClassWithOptionalParameter\ClassWithOptionalParameter\obj\Debug\ClassWithOptionalParameter.pdb
