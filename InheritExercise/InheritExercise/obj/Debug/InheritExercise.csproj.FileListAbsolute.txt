@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\bin\Debug\InheritExercise.exe.config
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\bin\Debug\InheritExercise.exe
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\bin\Debug\InheritExercise.pdb
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\obj\Debug\InheritExercise.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\obj\Debug\InheritExercise.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\obj\Debug\InheritExercise.exe
+C:\Users\Ben\source\repos\InheritExercise\InheritExercise\obj\Debug\InheritExercise.pdb
