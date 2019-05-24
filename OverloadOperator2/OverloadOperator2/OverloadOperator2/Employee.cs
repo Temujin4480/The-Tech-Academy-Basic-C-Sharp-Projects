@@ -8,7 +8,7 @@ namespace OverloadOperator2
 {
     public class Employee
     {
-        public Employee(string Name, int EmployeeID)
+        public Employee()//string Name, int EmployeeID)
         {
             Name = "El Guapo";
             EmployeeID = 001;
@@ -21,7 +21,7 @@ namespace OverloadOperator2
         //overloaded. The reverse is also true, where overloading != requires an overload for ==. The same is true for comparison 
         //operators < and > and for <= and >=.  You have to implement == for two objects.
 
-        //Try another way (also didn't work): 
+        //Tried another way (that I couldn't get to work): 
         //public static bool operator ==(Employee emp1, Employee emp2)
         //{
         //    bool status = false;
@@ -64,8 +64,9 @@ namespace OverloadOperator2
             {
                 return true;
             }
+            
             //return Comparison(emp1, emp2) != 0;
-            //}
+      //}
             //public override bool Equals(object obj)
             //{
             //    if (!(obj is Employee)) return false;
@@ -77,4 +78,5 @@ namespace OverloadOperator2
             //        return 0;
             //}
         }
+    }
 }
